@@ -8,9 +8,10 @@ I am Fabián and this is my repositorie with some codes.
 - 🤔 I’m looking for help with ... IA and their applications.
 - ⚡ Fun fact: ... I like dogs :3
 
-Email: fabian.gutierrez.gomez@gmail.com
-Videogames: https://leartoler.itch.io/
-Portfolio: https://ello.co/learto_ler
-Blog: https://learto-ler.medium.com/
+- Contact
+- Email: fabian.gutierrez.gomez@gmail.com
+- Videogames: https://leartoler.itch.io/
+- Portfolio: https://ello.co/learto_ler
+- Blog: https://learto-ler.medium.com/
 
 -->
